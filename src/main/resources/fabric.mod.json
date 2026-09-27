@@ -2,8 +2,8 @@
 	"schemaVersion": 1,
 	"id": "tutorialmod",
 	"version": "${version}",
-	"name": "TutorialMod",
-	"description": "tutorial mod",
+	"name": "Spin's Tarot Cards!",
+	"description": "A mod containg 22(~) tarot cards for an SMP.",
 	"authors": [
 		"Spin_dll"
 	],
@@ -16,14 +16,14 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.spindll.tutorialmod.TutorialMod"
+			"com.spindll.spinstarot.TutorialMod"
 		],
 		"fabric-datagen": [
-			"com.spindll.tutorialmod.TutorialModDataGenerator"
+			"com.spindll.spinstarot.TutorialModDataGenerator"
 		],
 		"client":
 		[
-			"com.spindll.tutorialmod.TutorialModClient"
+			"com.spindll.spinstarot.TutorialModClient"
 		]
 	},
 	"mixins": [

@@ -2,6 +2,6 @@
   "parent": "minecraft:item/generated",
   "textures":
   {
-    "layer0": "tutorialmod:item/basic_card"
+    "layer0": "spinstarot:item/basic_card"
   }
 }

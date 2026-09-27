@@ -1,6 +1,6 @@
-package com.spindll.tutorialmod.item;
+package com.spindll.spinstarot.item;
 
-import com.spindll.tutorialmod.TutorialMod;
+import com.spindll.spinstarot.TutorialMod;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;

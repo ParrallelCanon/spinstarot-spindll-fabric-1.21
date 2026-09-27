@@ -1,7 +1,6 @@
-package com.spindll.tutorialmod;
+package com.spindll.spinstarot;
 
 import net.fabricmc.api.ClientModInitializer;
-import net.minecraft.client.MinecraftClient;
 
 public class TutorialModClient implements ClientModInitializer {
 

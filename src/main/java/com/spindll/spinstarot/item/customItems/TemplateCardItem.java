@@ -1,4 +1,4 @@
-package com.spindll.tutorialmod.item.customItems;
+package com.spindll.spinstarot.item.customItems;
 
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.LivingEntity;
